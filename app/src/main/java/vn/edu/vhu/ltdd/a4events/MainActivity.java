@@ -162,3 +162,4 @@ public class MainActivity extends AppCompatActivity {
         return getString(R.string.bmi_obese);
     }
 }
+/**Hoan thanh kiem tra du lieu  */
